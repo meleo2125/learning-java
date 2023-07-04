@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExForLopp5 {
+public class ExForLoop5 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
