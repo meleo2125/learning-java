@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExForLoop6 {
+public class ForLoop6 {
     //fibonacci series
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

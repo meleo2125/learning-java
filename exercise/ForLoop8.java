@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExForLoop8 {
+public class ForLoop8 {
     public static void main(String[] args) {
         //reverse string
         Scanner input = new Scanner(System.in);

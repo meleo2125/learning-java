@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExIfElse2 {
+public class IfElse2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter num1 and num2 (Example: 1 + 2) :");

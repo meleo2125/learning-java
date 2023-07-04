@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExForLoop7 {
+public class ForLoop7 {
     public static void main(String[] args) {
         //display string with space
         Scanner input = new Scanner(System.in);

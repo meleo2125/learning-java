@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExForLoop3 {
+public class ForLoop3 {
     public static void main(String[] args) {
         //sum of strict divisors
         Scanner input = new Scanner(System.in);

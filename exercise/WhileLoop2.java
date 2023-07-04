@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExWhileLoop2 {
+public class WhileLoop2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

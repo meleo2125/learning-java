@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExForLoop4 {
+public class ForLoop4 {
     public static void main(String[] args) {
         //prime number
         Scanner input = new Scanner(System.in);
