@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class ExForLoop9 {
     public static void main(String[] args) {
+        //palindrome
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter a string : ");
