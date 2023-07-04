@@ -1,5 +1,3 @@
-package example;
-
 public class StringPractice {
     public static void main(String[] args) {
         String myString = "Mukesh Prajapat";

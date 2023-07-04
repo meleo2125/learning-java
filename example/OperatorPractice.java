@@ -1,5 +1,3 @@
-package example;
-
 public class OperatorPractice {
     public static void main(String[] args) {
         //Assignment operator

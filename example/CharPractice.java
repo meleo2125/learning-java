@@ -1,5 +1,3 @@
-package example;
-
 public class CharPractice {
     public static void main(String[] args) {
         char c1 = 'A';

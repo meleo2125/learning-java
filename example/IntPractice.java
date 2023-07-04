@@ -1,5 +1,3 @@
-package example;
-
 public class IntPractice {
     public static void main(String[] args) {
         byte b1=5;

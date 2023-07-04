@@ -1,5 +1,3 @@
-package example;
-
 public class BooleanPractice {
     public static void main(String[] args) {
         boolean isAlive = true;

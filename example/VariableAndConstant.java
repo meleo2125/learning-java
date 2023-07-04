@@ -1,5 +1,3 @@
-package example;
-
 public class VariableAndConstant {
     public static void main(String[] args) {
         //Variable

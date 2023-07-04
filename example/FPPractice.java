@@ -1,5 +1,3 @@
-package example;
-
 public class FPPractice {
     public static void main(String[] args) {
         float f1 = 4.5F;

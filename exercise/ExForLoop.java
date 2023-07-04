@@ -1,5 +1,3 @@
-package exercise;
-
 public class ExForLoop {
     public static void main(String[] args) {
         //tables from 1 to 10
