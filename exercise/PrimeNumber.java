@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ForLoop4 {
+public class PrimeNumber {
     public static void main(String[] args) {
         //prime number
         Scanner input = new Scanner(System.in);
@@ -14,14 +14,6 @@ public class ForLoop4 {
         else if (num<1) {
             System.out.println("Invalid number");
         }
-//        else{
-//            int sum = 1;
-//            for (int i=2;i<=num/2;i++) {
-//                if (num % i == 0)
-//                    System.out.println(num + " is not a prime");
-//            }
-//            System.out.println(sum==1 ? num+ " is prime" : num+ " is not a prime");
-//      }
         else {
             boolean isPrime=true;
             for (int i=2;i<=num/2;i++) {

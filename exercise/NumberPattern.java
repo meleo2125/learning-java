@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ForLoop10 {
+public class NumberPattern {
     public static void main(String[] args) {
         //number pattern
         Scanner input = new Scanner(System.in);

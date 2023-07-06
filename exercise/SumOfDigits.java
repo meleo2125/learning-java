@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-public class ForLoop5 {
+public class SumOfDigits {
     public static void main(String[] args) {
+//        sum of digits
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter a number : ");

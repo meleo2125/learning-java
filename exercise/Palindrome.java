@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ForLoop9 {
+public class Palindrome {
     public static void main(String[] args) {
         //palindrome
         Scanner input = new Scanner(System.in);

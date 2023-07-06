@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class WhileLoop {
     public static void main(String[] args) {
+//        sum of number till exceeding 100
         Scanner input = new Scanner(System.in);
 
         int sum = 0;

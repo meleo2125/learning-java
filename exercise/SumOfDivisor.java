@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ForLoop3 {
+public class SumOfDivisor {
     public static void main(String[] args) {
         //sum of strict divisors
         Scanner input = new Scanner(System.in);

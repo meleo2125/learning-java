@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IfElse3 {
+public class LuckyNumber {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

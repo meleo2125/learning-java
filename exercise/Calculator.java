@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IfElse2 {
+public class Calculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter num1 and num2 (Example: 1 + 2) :");

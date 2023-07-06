@@ -1,4 +1,4 @@
-public class ExClassMethod {
+public class ClassMethod {
     public static void main(String[] args) {
         System.out.println("Hello");
         Me.sayName();

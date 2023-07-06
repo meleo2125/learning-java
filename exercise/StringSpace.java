@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ForLoop7 {
+public class StringSpace {
     public static void main(String[] args) {
         //display string with space
         Scanner input = new Scanner(System.in);
@@ -12,5 +12,6 @@ public class ForLoop7 {
         for (int i=0;i<len;i++) {
             System.out.print(string.charAt(i) + " ");
         }
+        System.out.printf("");
     }
 }
