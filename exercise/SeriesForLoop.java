@@ -4,6 +4,7 @@ public class SeriesForLoop {
     public static void main(String[] args) {
         //series
         Scanner input = new Scanner(System.in);
+        System.out.print("Enter number of queries : ");
         int q = input.nextInt();
 
         for(int i=0;i<q;i++){
