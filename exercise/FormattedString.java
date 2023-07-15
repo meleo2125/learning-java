@@ -12,9 +12,9 @@ public class FormattedString {
         int i3 = input.nextInt();
 
         System.out.println("================================");
-        System.out.printf("%-14s %s%n",s1,String.format("%03d",i1) );
-        System.out.printf("%-14s %s%n",s2,String.format("%03d",i2) );
-        System.out.printf("%-14s %s%n",s3,String.format("%03d",i3) );
+        System.out.printf("%-14s %03d%n",s1,i1 );
+        System.out.printf("%-14s %03d%n",s2,i2 );
+        System.out.printf("%-14s %03d%n",s3,i2 );
         System.out.println("================================");
     }
 }
