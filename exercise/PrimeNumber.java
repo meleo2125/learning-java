@@ -11,9 +11,9 @@ public class PrimeNumber {
         if (num==2){
             System.out.println("2 is neither prime nor composite ");
         }
-        else if (num<1) {
-            System.out.println("Invalid number");
-        }
+//        else if (num<1) {
+//            System.out.println("Invalid number");
+//        }
         else {
             boolean isPrime=true;
             for (int i=2;i<=num/2;i++) {
